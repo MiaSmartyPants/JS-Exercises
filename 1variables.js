@@ -5,7 +5,7 @@ let emptyVariable;
 // Exercise 2. Declare a variable called 'myName'
 let myName;
 // Exercise 3. Assign your name as the value for 'myName'
-
+myName = 'mia';
 // Exercise 4. Declare a variable called dreamDestination and give it the value
 // of what your dream vacation destination is.
 let dreamDestination = 'Bali';
