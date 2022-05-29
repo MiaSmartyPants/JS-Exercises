@@ -77,10 +77,10 @@ const myAnswerForExercise14 = "RnD";
 const myAnswerForExercise15 = "R2D2";
 
 // Exercise 16 What is the value of A * B
-const myAnswerForExercise16 = "";
+const myAnswerForExercise16 = "NaN";
 
 // Exercise 17 What is the value of true || false
-const myAnswerForExercise17 = "";
+const myAnswerForExercise17 = "True";
 
 // Exercise 18 What is the value of 1 === "1"
 const myAnswerForExercise18 = "false";
